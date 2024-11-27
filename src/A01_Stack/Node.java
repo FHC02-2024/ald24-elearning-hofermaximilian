@@ -1,3 +1,4 @@
+//Maximiilian Hofer, 26.11.2024
 package A01_Stack;
 
 public class Node<T>
